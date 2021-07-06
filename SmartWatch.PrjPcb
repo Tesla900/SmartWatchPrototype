@@ -258,6 +258,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVAZLTYZ
 
+[Document14]
+DocumentPath=SmartWatchPCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QFFXTRXJ
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SmartWatch\BOM\Bill of Materials-SmartWatch.xls
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -978,7 +999,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
