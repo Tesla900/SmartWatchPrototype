@@ -276,7 +276,15 @@ GenerateClassCluster=0
 DocumentUniqueId=QFFXTRXJ
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for SmartWatch\BGA Escape Route - SmartWatchPCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SmartWatch\BOM\Bill of Materials-SmartWatch.xls
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SmartWatch\Design Rule Check - SmartWatchPCB.html
 DItemRevisionGUID=
 
 [Configuration1]
