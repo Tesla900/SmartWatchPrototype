@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [SmartWatchPCB.PcbDoc]
+   Generated File[SmartWatchPCB.GTO]
+   Generated File[SmartWatchPCB.GTP]
+   Generated File[SmartWatchPCB.GTS]
+   Generated File[SmartWatchPCB.GTL]
+   Generated File[SmartWatchPCB.G1]
+   Generated File[SmartWatchPCB.G2]
+   Generated File[SmartWatchPCB.GBL]
+   Generated File[SmartWatchPCB.GBS]
+   Generated File[SmartWatchPCB.GBO]
+   Generated File[SmartWatchPCB.GKO]
+   Generated File[SmartWatchPCB.RUL]
+   Generated File[SmartWatchPCB.EXTREP]
+   Generated File[SmartWatchPCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 3:15:45 On 10.07.2021

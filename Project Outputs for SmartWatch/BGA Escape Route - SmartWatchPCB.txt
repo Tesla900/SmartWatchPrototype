@@ -1,0 +1,82 @@
+BGA Escape Route
+Filename     : E:\work\SmartWatchPrototype\SmartWatchPCB.PcbDoc
+Date         : 08.07.2021
+Time         : 15:30:50
+Time Elapsed : 00:00:00
+
+D7
+    Pad D7-K10(73.3mm,57.5mm) on Top Layer on Net GND
+    Pad D7-A1(76.45mm,54.35mm) on Top Layer on Net XC1
+    Pad D7-K1(76.45mm,57.5mm) on Top Layer on Net +3V3
+    Pad D7-A10(73.3mm,54.35mm) on Top Layer on Net DEC1
+    Pad D7-J1(76.45mm,57.15mm) on Top Layer on Net NetD7_J1
+    Pad D7-B10(73.3mm,54.7mm) on Top Layer on Net GND
+    Pad D7-A2(76.1mm,54.35mm) on Top Layer on Net XC2
+    Pad D7-K9(73.65mm,57.5mm) on Top Layer on Net DECUSB
+    Pad D7-J10(73.3mm,57.15mm) on Top Layer on Net +3V3
+    Pad D7-H1(76.45mm,56.8mm) on Top Layer on Net NetD7_H1
+    Pad D7-C1(76.45mm,55.05mm) on Top Layer on Net GND
+    Pad D7-A3(75.75mm,54.35mm) on Top Layer on Net NetD7_A3
+    Pad D7-A8(74mm,54.35mm) on Top Layer on Net DEC4_6
+    Pad D7-K3(75.75mm,57.5mm) on Top Layer on Net NetD7_K3
+    Pad D7-H10(73.3mm,56.8mm) on Top Layer on Net +3V3
+    Pad D7-J2(76.1mm,57.15mm) on Top Layer on Net NetD7_J2
+    Pad D7-B9(73.65mm,54.7mm) on Top Layer on Net 32768Hz
+    Pad D7-G1(76.45mm,56.45mm) on Top Layer on Net NetD7_G1
+    Pad D7-K4(75.4mm,57.5mm) on Top Layer on Net NetD7_K4
+    Pad D7-K7(74.35mm,57.5mm) on Top Layer on Net NetD7_K7
+    Pad D7-G10(73.3mm,56.45mm) on Top Layer on Net NetD7_G10
+    Pad D7-E1(76.45mm,55.75mm) on Top Layer on Net RF_2.4GHz_MCU
+    Pad D7-K5(75.05mm,57.5mm) on Top Layer on Net +3V3
+    Pad D7-K6(74.7mm,57.5mm) on Top Layer on Net NetC13_2
+    Pad D7-F10(73.3mm,56.1mm) on Top Layer on Net NetD7_F10
+    Pad D7-E10(73.3mm,55.75mm) on Top Layer on Net NetD7_E10
+    Pad D7-H2(76.1mm,56.8mm) on Top Layer on Net NetD7_H2
+    Pad D7-B3(75.75mm,54.7mm) on Top Layer on Net +3V3
+    Pad D7-B8(74mm,54.7mm) on Top Layer on Net +3V3
+    Pad D7-J3(75.75mm,57.15mm) on Top Layer on Net NetD7_J3
+    Pad D7-C2(76.1mm,55.05mm) on Top Layer on Net DEC4_6
+    Pad D7-G2(76.1mm,56.45mm) on Top Layer on Net NetD7_G2
+    Pad D7-B4(75.4mm,54.7mm) on Top Layer on Net NetD7_B4
+    Pad D7-B7(74.35mm,54.7mm) on Top Layer on Net GND
+    Pad D7-J4(75.4mm,57.15mm) on Top Layer on Net NetD7_J4
+    Pad D7-J7(74.35mm,57.15mm) on Top Layer on Net NetD7_J7
+    Pad D7-G9(73.65mm,56.45mm) on Top Layer on Net NetD7_G9
+    Pad D7-D9(73.65mm,55.4mm) on Top Layer on Net USR_LED
+    Pad D7-H8(74mm,56.8mm) on Top Layer on Net NetD7_H8
+    Pad D7-F2(76.1mm,56.1mm) on Top Layer on Net DEC5
+    Pad D7-B5(75.05mm,54.7mm) on Top Layer on Net NetD7_B5
+    Pad D7-B6(74.7mm,54.7mm) on Top Layer on Net NetC7_2
+    Pad D7-J5(75.05mm,57.15mm) on Top Layer on Net NetD7_J5
+    Pad D7-J6(74.7mm,57.15mm) on Top Layer on Net NetD7_J6
+    Pad D7-F9(73.65mm,56.1mm) on Top Layer on Net NetD7_F9
+    Pad D7-E9(73.65mm,55.75mm) on Top Layer on Net NetD7_E9
+    Pad D7-H7(74.35mm,56.8mm) on Top Layer on Net NetD7_H7
+    Pad D7-G3(75.75mm,56.45mm) on Top Layer on Net NetD7_G3
+    Pad D7-G8(74mm,56.45mm) on Top Layer on Net GND
+    Pad D7-D8(74mm,55.4mm) on Top Layer on Net GND
+    Pad D7-C4(75.4mm,55.05mm) on Top Layer on Net GND
+    Pad D7-H5(75.05mm,56.8mm) on Top Layer on Net NetD7_H5
+    Pad D7-H6(74.7mm,56.8mm) on Top Layer on Net NetD7_H6
+    Pad D7-F3(75.75mm,56.1mm) on Top Layer on Net NetD7_F3
+    Pad D7-F8(74mm,56.1mm) on Top Layer on Net GND
+    Pad D7-E3(75.75mm,55.75mm) on Top Layer on Net NetD7_E3
+    Pad D7-E8(74mm,55.75mm) on Top Layer on Net GND
+    Pad D7-C5(75.05mm,55.05mm) on Top Layer on Net NetD7_C5
+    Pad D7-G4(75.4mm,56.45mm) on Top Layer on Net GND
+    Pad D7-G7(74.35mm,56.45mm) on Top Layer on Net GND
+    Pad D7-D4(75.4mm,55.4mm) on Top Layer on Net GND
+    Pad D7-D7(74.35mm,55.4mm) on Top Layer on Net GND
+    Pad D7-G5(75.05mm,56.45mm) on Top Layer on Net GND
+    Pad D7-E4(75.4mm,55.75mm) on Top Layer on Net GND
+    Pad D7-E7(74.35mm,55.75mm) on Top Layer on Net GND
+    Pad D7-D5(75.05mm,55.4mm) on Top Layer on Net GND
+    Pad D7-G6(74.7mm,56.45mm) on Top Layer on Net GND
+    Pad D7-F4(75.4mm,56.1mm) on Top Layer on Net GND
+    Pad D7-F7(74.35mm,56.1mm) on Top Layer on Net GND
+    Pad D7-D6(74.7mm,55.4mm) on Top Layer on Net GND
+    Pad D7-F5(75.05mm,56.1mm) on Top Layer on Net GND
+    Pad D7-E5(75.05mm,55.75mm) on Top Layer on Net GND
+    Pad D7-E6(74.7mm,55.75mm) on Top Layer on Net GND
+    Pad D7-F6(74.7mm,56.1mm) on Top Layer on Net GND
+count : 74
