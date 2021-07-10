@@ -99,6 +99,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Keep-Out Layer
+      File : SmartWatchPCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : SmartWatchPCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : SmartWatchPCB.GBS
 
@@ -299,26 +320,5 @@ Used DCodes :
     D118
     D125
     D126
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : SmartWatchPCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : SmartWatchPCB.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D12
 *************************************************************
 
