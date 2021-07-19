@@ -275,8 +275,77 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFFXTRXJ
 
+[Document15]
+DocumentPath=SmartWatchAssembly.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SmartWatch\Design Rule Check - SmartWatchPCB.html
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for SmartWatch\Gerber\SmartWatchPCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for SmartWatch\NC Drill\SmartWatchPCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for SmartWatch\NC Drill\SmartWatchPCB.TX1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for SmartWatch\NC Drill\SmartWatchPCB.TX2
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for SmartWatch\NC Drill\SmartWatchPCB.TXT
 DItemRevisionGUID=
 
 [Configuration1]
